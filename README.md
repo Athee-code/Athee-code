@@ -26,4 +26,4 @@ I work mostly in TypeScript, Java and Python, with Next.js, Odoo and PostgreSQL,
 
 <img src="assets/contact.svg" width="100%" alt="Let's build it properly. Odoo, school software, or anything else that has to keep working." />
 
-<!-- Add your links here, e.g. [LinkedIn](https://linkedin.com/in/...) · [Email](mailto:...) · [atharatech.com](https://atharatech.com) -->
+Reach me on [LinkedIn](https://www.linkedin.com/in/atheef-muhammadh/) or at [atheef@atharatech.com](mailto:atheef@atharatech.com).
