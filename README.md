@@ -2,13 +2,19 @@
 
 I build software at Athara Technologies and I'm finishing a full stack engineering course at Java Institute. I care about the details people only notice when they're wrong: a report card that adds up, a message that reaches the right parent, a page that still works on a cheap phone.
 
-<img src="assets/schoolmanager.png" width="100%" alt="SchoolManager.lk: the principal's dashboard with students, attendance and fees, next to a phone receiving WhatsApp messages from the school" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/schoolmanager.png" />
+  <img src="assets/schoolmanager.webp" width="100%" alt="SchoolManager.lk: the principal's dashboard with students, attendance and fees, next to a phone receiving WhatsApp messages from the school" />
+</picture>
 
 **SchoolManager.lk** runs exams and report cards, student and staff attendance, fees and a student portal. Parents get a WhatsApp message when their child arrives, when results are out, and when fees are due.
 
 <br/>
 
-<img src="assets/motion.png" width="100%" alt="A motion graphic from atharatech.com: code approving an order, and the dashboard updating and sending a WhatsApp message" />
+<picture>
+  <source media="(prefers-reduced-motion: reduce)" srcset="assets/motion.png" />
+  <img src="assets/motion.webp" width="100%" alt="A motion graphic from atharatech.com: code approving an order, and the dashboard updating and sending a WhatsApp message" />
+</picture>
 
 **[atharatech.com](https://atharatech.com)** is built with Next.js, GSAP and Lenis, in light and dark. The product and service videos on it, like this one, are React components rendered to video with Remotion, so changing one is a code change, not a trip back to an editing app.
 
